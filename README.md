@@ -1,1 +1,1 @@
-# sample-repo-hello
+# sample-repo
